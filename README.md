@@ -25,8 +25,12 @@ samples, guidance on mobile development, and a full API reference.
 
 Screen my Application: 
 
-<img src="Снимок экрана (2).png"/>
-<img src="Снимок экрана (2).png"/>
-<img src="Снимок экрана (2).png"/>
-<img src="Снимок экрана (2).png"/>
+<img src="Screen1.png"/>
+<img src="Screen2.png"/>
+<img src="Screen3.png"/>
+<img src="Screen4.png"/>
+<img src="Screen5.png"/>
+<img src="Screen6.png"/>
+
+
 
