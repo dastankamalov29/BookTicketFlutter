@@ -25,7 +25,7 @@ samples, guidance on mobile development, and a full API reference.
 
 Screen my Application: 
 
-<img src="Screen1.png "width="300"/>
+<img src="Screen1.png "width="100"/>
 <img src="Screen2.png"/>
 <img src="Screen3.png"/>
 <img src="Screen4.png"/>
